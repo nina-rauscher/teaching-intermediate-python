@@ -4,7 +4,7 @@
 
 ---
 
-*Columbia Girls Who Code* is a club aiming at offering an introduction to programming to young girls from 9 to 18 years-old over 6 weeks.
+*Columbia Girls Who Code* is a club aiming at offering an introduction to programming to young girls from 9 to 18 years-old over 5 weeks.
 
 Their traditional offering includes two programs:
 1. *Intro to CS in Python*
